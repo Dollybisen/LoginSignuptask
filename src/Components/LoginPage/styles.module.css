@@ -1,0 +1,33 @@
+button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 4px ;
+    cursor: pointer;
+    width: 40%;
+  }
+  
+  input{
+    width: 80%;
+    padding: 14px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid blue;
+    box-sizing: border-box;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+form {
+  background-color: lightgrey;
+  width: 400px;
+  border: 15px solid black;
+  padding: 80px;
+  margin: 50px;
+}
+h3{
+font-family: Arial, Helvetica, sans-serif;
+}
+.errorMsg {
+  color: #cc0000;
+  margin-bottom: 12px;
+}
